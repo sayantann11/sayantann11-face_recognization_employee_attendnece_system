@@ -7,4 +7,4 @@
 
 
 
-##MAKE sure to install visual studio with build-in c++ module inorder to install facial_recognization library
+#MAKE sure to install visual studio with build-in c++ module inorder to install facial_recognization library
